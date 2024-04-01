@@ -1,0 +1,43 @@
+{
+    "configurations": [
+        {
+            "name": "Python Debugger: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        }
+    ]
+} class Shop:
+    def __init__(self):
+        self.money = 100
+        self.bluntwrapz = 0
+
+    def sell_bluntwrapz(self, quantity, price):
+        self.bluntwrapz += quantity
+        self.money += quantity * price
+
+    def customize_shop(self):
+        # Implement shop customization logic here
+        pass
+
+class RapBattle:
+    def __init__(self, opponent):
+        self.opponent = opponent
+
+    def start_battle(self):
+        # Implement rap battle mechanics here
+        pass
+
+class Game:
+    def __init__(self):
+        self.player_shop = Shop()
+
+    def main_menu(self):
+        # Implement the main menu options here
+        pass
+
+# Main game loop
+game = Game()
+while True:
+    game.main_menu()
