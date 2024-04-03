@@ -1,3 +1,5 @@
+("hello world")
+
 18BluntWrapz Battle
 
 Welcome to the BluntWrapz Battle! Immerse yourself in the HIGH LIFE the world of Blunts and fierce wrap battles. Manage your Blunt shop, explore different parts of Manchester will you make it out or not?, can you prove your lyrical talent in epic wrap battles, LETS GO CHAMP!
